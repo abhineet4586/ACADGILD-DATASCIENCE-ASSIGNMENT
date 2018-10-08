@@ -1,0 +1,20 @@
+1Q:-What are the three stages to build the hypotheses or model in machine learning.
+Ans:-Three stages for building hypotheses or model in machine learning are as follows
+    => Model building
+    => Applying the model
+    => Model Testing
+
+2Q:- What is the standard approach to supervised learning.
+Ans:- Standard Approach to supervised learning is to split the data set in training dataset and test dataset.Training dataset is used to train the model and test dataset is use to test the model and find accuracy for model.
+
+3Q:- What is Traing set and Test set.
+Ans:- Training set is a dataset used to train a model.While model trainig phase specific features are picked from training data set and those features get incorporated to model.
+      Test set is a data set used to measure how well the model is performing at making prdiction on the test set.
+      
+4Q:- What is the general principle of an essemble method and what is bagging and boosting in essemble method.
+Ans:- general principle of an essemble is method to combine the prediction of several models built with a given learning algorithm in order to improve robustness over single model. Bagging is method in essemble to improve unstable estimation or classification.Bagging reduce the error by reducing variance term. Boosting method was used to reduce the bias of combined model.Boosting also reduce error by reducing variance term.
+
+5Q:- How can you avoid overfitting.
+Ans:- Overfitting can be avoided by below mentioned methods.
+        => By using larger dataset overfitting can be avoided.
+        => If data set is small, we can use cross velidation technique to avoid overfitting.
